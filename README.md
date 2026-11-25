@@ -18,11 +18,10 @@ and which guests to contact before arrival.
 
 | Name | Student number | Responsibility |
 |---|---|---|
-| _TBD_ | _TBD_ | EDA, preprocessing pipeline, logistic regression |
-| _TBD_ | _TBD_ | Baseline, decision tree, evaluation and threshold choice |
-| _TBD_ | _TBD_ | k-NN, per-hotel and subgroup comparison |
+| Mikhail Savushkin | 23040102083 | EDA, preprocessing pipeline, logistic regression, k-NN |
+| Ahmet Sait Almış | 23040102057 | Baseline, decision tree, threshold choice and test evaluation, subgroup and leakage checks |
 
-Group name: _TBD_
+Group name: **NonRefundable**
 
 ## Repository structure
 
