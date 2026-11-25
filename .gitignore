@@ -19,3 +19,6 @@ venv/
 
 # Office temp files
 ~$*
+
+# Course materials and drafts
+local/
